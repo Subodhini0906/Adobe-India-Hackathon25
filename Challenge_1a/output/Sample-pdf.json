@@ -1,0 +1,65 @@
+{
+  "title": "Sample PDF Document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "4 CONTENTS",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "6 CHAPTER1. TEMPLATE",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1.3. LATEXANDPDFLATEXCAPABILITIES 7",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "E E",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1.3.2 LAT EX",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "1.3.3 pdfLAT EX",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "MIMUW",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8 CHAPTER1. TEMPLATE",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "1.3. LATEXANDPDFLATEXCAPABILITIES 9",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "\u2022 SMALL CAPS",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "10 CHAPTER1. TEMPLATE",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "LARGE",
+      "page": 10
+    }
+  ]
+}
