@@ -1,0 +1,5 @@
+pdfminer.six==20250506
+spacy==3.8.7
+sentence-transformers==5.0.0
+scikit-learn==1.7.1
+numpy==2.2.6
