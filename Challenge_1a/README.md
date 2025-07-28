@@ -30,7 +30,7 @@ The provided `main.py` that demonstrates:
 - Output file creation in the specified format
 
 
-## Testing Your Solution
+## Testing the Solution
 
 ### Local Testing
 ```bash
