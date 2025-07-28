@@ -23,13 +23,6 @@ Challenge_1a/
 └── README.md           # This file
 ```
 
-### Current Sample Solution
-The provided `main.py` that demonstrates:
-- PDF file scanning from input directory
-- Dummy JSON data generation
-- Output file creation in the specified format
-
-
 ## Testing the Solution
 
 ### Local Testing
